@@ -1,0 +1,821 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"bor",
+				"border-bottom-style\tproperty"
+			],
+			[
+				"hover",
+				"hovered"
+			],
+			[
+				"highligh",
+				"highlightStrokeWidth"
+			],
+			[
+				"border-ra",
+				"border-bottom-right-radius\tproperty"
+			],
+			[
+				"bo",
+				"border-radius\tproperty"
+			],
+			[
+				"flex",
+				"flex-direction\tproperty"
+			],
+			[
+				"list",
+				"outputLists"
+			],
+			[
+				"outputo",
+				"outputOutTrans"
+			],
+			[
+				"outpl",
+				"outputListF"
+			],
+			[
+				"highl",
+				"highlighted"
+			],
+			[
+				"out",
+				"outputListF"
+			],
+			[
+				"str",
+				"strokeWidth"
+			],
+			[
+				"stroke",
+				"strokeWidth2"
+			],
+			[
+				"tra",
+				"transition\tproperty"
+			],
+			[
+				"output",
+				"outputIn"
+			],
+			[
+				"transf",
+				"transform\tproperty"
+			],
+			[
+				"in",
+				"indigo"
+			],
+			[
+				"tran",
+				"transition\tproperty"
+			],
+			[
+				"back",
+				"background\tproperty"
+			],
+			[
+				"fonts",
+				"font-size\tproperty"
+			],
+			[
+				"shuff",
+				"shuffleIds"
+			],
+			[
+				"for",
+				"for\tfor (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"pint",
+				"point"
+			],
+			[
+				"mouse",
+				"mouseMoveHandler"
+			],
+			[
+				"ra",
+				"randXY"
+			],
+			[
+				"g",
+				"g"
+			],
+			[
+				"listc",
+				"listChance"
+			],
+			[
+				"bx",
+				"box"
+			],
+			[
+				"rand",
+				"toRadians"
+			],
+			[
+				"huxxy",
+				"huxxy_init"
+			],
+			[
+				"find",
+				"find_longest_suite"
+			],
+			[
+				"ne",
+				"next_list"
+			],
+			[
+				"vali",
+				"valid_path"
+			],
+			[
+				"bann",
+				"banned_groups"
+			],
+			[
+				"suits",
+				"suite2_state"
+			],
+			[
+				"x",
+				"x_play"
+			],
+			[
+				"app",
+				"append_worth"
+			],
+			[
+				"tabl",
+				"table_flat"
+			],
+			[
+				"sui",
+				"suite_cyc"
+			],
+			[
+				"r",
+				"rang2"
+			],
+			[
+				"form",
+				"format_history"
+			],
+			[
+				"format",
+				"format_cards_and_groups"
+			],
+			[
+				"ski",
+				"skipped"
+			],
+			[
+				"valipl",
+				"valid_splaces"
+			],
+			[
+				"cardsb",
+				"cards_by_val"
+			],
+			[
+				"grup",
+				"group"
+			],
+			[
+				"mves",
+				"moves_extra"
+			],
+			[
+				"hic",
+				"hitCountCont"
+			],
+			[
+				"fr",
+				"for\tfor (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"draw",
+				"drawRect"
+			],
+			[
+				"notes",
+				"noteElms"
+			],
+			[
+				"tr",
+				"transform-origin\tproperty"
+			],
+			[
+				"rot",
+				"rotateX()\ttransform"
+			],
+			[
+				"anima",
+				"animation-play-state\tproperty"
+			],
+			[
+				"fle",
+				"flex-direction\tproperty"
+			],
+			[
+				"animatio",
+				"animation\tproperty"
+			],
+			[
+				"ro",
+				"rotateX()\ttransform"
+			],
+			[
+				"mar",
+				"margin-left\tproperty"
+			],
+			[
+				"po",
+				"position\tproperty"
+			],
+			[
+				"pse",
+				"past_card_players"
+			],
+			[
+				"recenl",
+				"recent_played"
+			],
+			[
+				"player",
+				"player"
+			],
+			[
+				"prev",
+				"prev_type"
+			],
+			[
+				"bord",
+				"border-radius\tproperty"
+			],
+			[
+				"persp",
+				"perspective-origin\tproperty"
+			],
+			[
+				"speci",
+				"species_env"
+			],
+			[
+				"animat",
+				"animation-play-state\tproperty"
+			],
+			[
+				"spec",
+				"species"
+			],
+			[
+				"inf",
+				"inferred_species_list"
+			],
+			[
+				"infer",
+				"inferred_species_list"
+			],
+			[
+				"spev",
+				"species_environments_list"
+			],
+			[
+				"speceise",
+				"species_environments_list"
+			],
+			[
+				"spe",
+				"species_environment_list"
+			],
+			[
+				"re",
+				"region_list"
+			],
+			[
+				"envo",
+				"environment"
+			],
+			[
+				"unique",
+				"unique_species_count"
+			],
+			[
+				"padding",
+				"padding-left\tproperty"
+			],
+			[
+				"anim",
+				"animation\tproperty"
+			],
+			[
+				"crea",
+				"createElm"
+			],
+			[
+				"class",
+				"classList"
+			],
+			[
+				"grid-atu",
+				"grid-auto-flow\tproperty"
+			],
+			[
+				"a",
+				"auto\tgrid-auto-columns"
+			],
+			[
+				"transl",
+				"translateZ()\ttransform"
+			],
+			[
+				"transfo",
+				"transform\tproperty"
+			],
+			[
+				"lates",
+				"latestRing"
+			],
+			[
+				"rotat",
+				"rotateX()\ttransform"
+			],
+			[
+				"trans",
+				"transform-origin\tproperty"
+			],
+			[
+				"transform",
+				"transform-style\tproperty"
+			],
+			[
+				"animation",
+				"animation-play-state\tproperty"
+			],
+			[
+				"font",
+				"font\tproperty"
+			],
+			[
+				"ease",
+				"ease-in-out\tanimation"
+			],
+			[
+				"spli",
+				"splitter"
+			],
+			[
+				"box",
+				"box-sizing\tproperty"
+			],
+			[
+				"down",
+				"downloadOn"
+			],
+			[
+				"loadim",
+				"loadImages"
+			],
+			[
+				"contr",
+				"contrastValue"
+			],
+			[
+				"changed",
+				"changedData"
+			],
+			[
+				"autoc",
+				"autoContrast"
+			],
+			[
+				"set",
+				"setProp"
+			],
+			[
+				"def",
+				"defaultP"
+			],
+			[
+				"const",
+				"contrastValue"
+			],
+			[
+				"autocv",
+				"autoContrastValue"
+			],
+			[
+				"autocon",
+				"autoContrastValue"
+			],
+			[
+				"rgb",
+				"arrToRgb"
+			],
+			[
+				"fre",
+				"frequency"
+			],
+			[
+				"Subm",
+				"sumbitHandler"
+			],
+			[
+				"doc",
+				"doColor"
+			],
+			[
+				"Sta",
+				"startSound"
+			],
+			[
+				"add",
+				"addEventListener"
+			],
+			[
+				"docue",
+				"document"
+			],
+			[
+				"geth",
+				"getHexPoints"
+			],
+			[
+				"ani",
+				"animation-direction\tproperty"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"chan",
+				"changeRate"
+			],
+			[
+				"aud",
+				"audioContext"
+			],
+			[
+				"rev",
+				"reverbNode"
+			],
+			[
+				"ba",
+				"background-image"
+			],
+			[
+				"b",
+				"backdrop"
+			],
+			[
+				"ov",
+				"overlayImgFit"
+			],
+			[
+				"over",
+				"overlayImg"
+			],
+			[
+				"h",
+				"h"
+			],
+			[
+				"fil",
+				"fillColor"
+			],
+			[
+				"getp",
+				"getPrimesArray"
+			],
+			[
+				"hsl",
+				"hslToRgb"
+			],
+			[
+				"ch",
+				"chinTextTypes"
+			],
+			[
+				"tral",
+				"translateY()\ttransform"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"luw",
+				"Reg Replace: LUWAG"
+			],
+			[
+				"reg",
+				"Reg Replace: LUWAG"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 517.0,
+		"history":
+		[
+			"eee"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/s.b.cho/Documents/My Stuff/Coding/HTML/QuickDesktop/hackweektest3.2.html",
+		"/C/Users/s.b.cho/Documents/My Stuff/Coding/HTML/QuickDesktop/hackweektest3.html",
+		"/C/Users/s.b.cho/Documents/My Stuff/Coding/HTML/QuickDesktop/hackweektest2.html",
+		"/C/Users/s.b.cho/Documents/My Stuff/Coding/HTML/QuickDesktop/hackweektest.html",
+		"/C/Users/s.b.cho/Documents/My Stuff/Coding/HTML/QuickDesktop/ytapitest2.html",
+		"/C/Users/s.b.cho/Documents/My Stuff/Coding/HTML/QuickDesktop/justcharttest2.2.html",
+		"/C/Users/s.b.cho/Documents/My Stuff/Coding/HTML/QuickDesktop/justcharttest2.html",
+		"/C/Users/s.b.cho/Documents/My Stuff/Coding/HTML/QuickDesktop/justcharttest.html",
+		"/C/Users/s.b.cho/Documents/My Stuff/Coding/HTML/QuickDesktop/randrecttest.html",
+		"/C/Users/s.b.cho/Documents/My Stuff/Coding/HTML/QuickDesktop/poissondisctest.html",
+		"/C/Users/s.b.cho/Documents/My Stuff/Coding/HTML/QuickDesktop/mousedotstest1.2.html",
+		"/C/Users/s.b.cho/Documents/My Stuff/Coding/HTML/QuickDesktop/mousedotstest.html",
+		"/C/Users/s.b.cho/Documents/My Stuff/Coding/HTML/QuickDesktop/huxxytest2.2.py",
+		"/C/Users/s.b.cho/Documents/My Stuff/Coding/HTML/QuickDesktop/mazetest4.html",
+		"/C/Users/s.b.cho/Documents/My Stuff/Coding/HTML/QuickDesktop/a.html",
+		"/C/Users/s.b.cho/Documents/My Stuff/Coding/HTML/QuickDesktop/pngmagtest5.5.html",
+		"/C/Users/s.b.cho/Documents/My Stuff/Coding/HTML/QuickDesktop/huxxytest5.py",
+		"/C/Users/s.b.cho/Documents/My Stuff/Coding/HTML/QuickDesktop/huxxytest4.2.1.py",
+		"/C/Users/s.b.cho/Documents/My Stuff/Coding/HTML/QuickDesktop/huxxytest4.2.py",
+		"/C/Users/s.b.cho/Documents/My Stuff/Coding/HTML/QuickDesktop/huxxytest3.2.py",
+		"/C/Users/s.b.cho/Desktop/huxxy1-3.py",
+		"/C/Users/s.b.cho/Documents/My Stuff/Coding/HTML/QuickDesktop/huxxytest4.py",
+		"/C/Users/s.b.cho/Documents/My Stuff/Coding/HTML/QuickDesktop/huxxytest4notes.txt",
+		"/C/Users/s.b.cho/Downloads/huxxy4.py",
+		"/C/Users/s.b.cho/Documents/My Stuff/Coding/HTML/QuickDesktop/huxxytest0.txt",
+		"/C/Users/s.b.cho/Documents/My Stuff/Coding/HTML/QuickDesktop/huxxytest1.2.py",
+		"/C/Users/s.b.cho/Documents/My Stuff/Coding/HTML/QuickDesktop/huxxytest1.py",
+		"/C/Users/s.b.cho/Documents/My Stuff/Coding/HTML/QuickDesktop/huxxytest2.py",
+		"/C/Users/s.b.cho/Documents/My Stuff/Coding/HTML/QuickDesktop/excersisetest2.2.py",
+		"/C/Users/s.b.cho/Documents/My Stuff/Coding/HTML/QuickDesktop/breakouttest3.1.html",
+		"/C/Users/s.b.cho/Documents/My Stuff/Coding/HTML/QuickDesktop/pngmagtest5.1.html",
+		"/C/Users/s.b.cho/Documents/My Stuff/Coding/HTML/QuickDesktop/primepattern2.html",
+		"/C/Users/s.b.cho/Documents/My Stuff/Coding/HTML/QuickDesktop/animjumpsmoothtest.html",
+		"/C/Users/s.b.cho/Documents/My Stuff/Coding/HTML/QuickDesktop/animwalksmoothtest.html",
+		"/C/Users/s.b.cho/Documents/My Stuff/Coding/HTML/QuickDesktop/justpianotest.html",
+		"/C/Users/s.b.cho/Documents/My Stuff/Coding/HTML/QuickDesktop/eventlistentest.html",
+		"/C/Users/s.b.cho/Documents/My Stuff/Coding/HTML/Testing/greytest.html",
+		"/C/Users/s.b.cho/Documents/My Stuff/Coding/HTML/QuickDesktop/runtimeouttest.html",
+		"/C/Users/s.b.cho/AppData/Roaming/Sublime Text 3/Packages/User/Default.sublime-commands",
+		"/C/Users/s.b.cho/AppData/Roaming/Sublime Text 3/Packages/User/reg_replace_rules.sublime-settings",
+		"/C/Users/s.b.cho/AppData/Roaming/Sublime Text 3/Packages/RegReplace/reg_replace_rules (example).sublime-settings",
+		"/C/Users/s.b.cho/Documents/My Stuff/Coding/HTML/QuickDesktop/touchdetecttest2.html",
+		"/C/Users/s.b.cho/Documents/My Stuff/Coding/HTML/QuickDesktop/skewsynthpadtest.html",
+		"/C/Users/s.b.cho/Documents/My Stuff/Coding/HTML/QuickDesktop/hexpianotest.html",
+		"/C/Users/s.b.cho/Documents/My Stuff/Coding/HTML/QuickDesktop/huxxytest3.py",
+		"/C/Users/s.b.cho/Documents/My Stuff/Coding/HTML/QuickDesktop/panelwalktest1.1.html",
+		"/C/Users/s.b.cho/Documents/My Stuff/Coding/HTML/QuickDesktop/panelwalktest.html",
+		"/C/Users/s.b.cho/Documents/My Stuff/Coding/HTML/QuickDesktop/excersisetest2.1.py",
+		"/C/Users/s.b.cho/Documents/My Stuff/Coding/HTML/QuickDesktop/excersisetest2.py",
+		"/C/Users/s.b.cho/Documents/My Stuff/Coding/HTML/QuickDesktop/excersisetest.py",
+		"/C/Users/s.b.cho/Documents/My Stuff/Coding/HTML/QuickDesktop/animtransittest.html",
+		"/C/Users/s.b.cho/Documents/My Stuff/Coding/HTML/QuickDesktop/mastermindtest.html",
+		"/C/Users/s.b.cho/Documents/My Stuff/Coding/HTML/QuickDesktop/prandtest.html",
+		"/C/Users/s.b.cho/Documents/My Stuff/Coding/HTML/QuickDesktop/gridautofilltest.html",
+		"/C/Users/s.b.cho/Documents/My Stuff/Coding/HTML/QuickDesktop/labelhittest.html",
+		"/C/Users/s.b.cho/Documents/My Stuff/Coding/HTML/QuickDesktop/hanoitest2.html",
+		"/C/Users/s.b.cho/Documents/My Stuff/Coding/HTML/QuickDesktop/hanoitest.html",
+		"/C/Users/s.b.cho/Documents/My Stuff/Coding/HTML/QuickDesktop/ringsspintest.html",
+		"/C/Users/s.b.cho/Documents/My Stuff/Coding/HTML/QuickDesktop/animdurtest.html",
+		"/C/Users/s.b.cho/Documents/My Stuff/Coding/HTML/QuickDesktop/soundtouchtest.html",
+		"/C/Users/s.b.cho/Documents/My Stuff/Coding/HTML/QuickDesktop/pngmagnotes.txt",
+		"/C/Users/s.b.cho/Documents/My Stuff/Coding/HTML/QuickDesktop/scrabblecsstest.html",
+		"/C/Users/s.b.cho/Documents/My Stuff/Coding/HTML/QuickDesktop/3dmovtest4.html",
+		"/C/Users/s.b.cho/Documents/My Stuff/Coding/HTML/QuickDesktop/3dmovtest3.html",
+		"/C/Users/s.b.cho/Documents/My Stuff/Coding/HTML/QuickDesktop/3dmovtest2.html",
+		"/C/Users/s.b.cho/Documents/My Stuff/Coding/HTML/QuickDesktop/3dmovtest.html",
+		"/C/Users/s.b.cho/Desktop/creativity.txt",
+		"/C/Users/s.b.cho/Documents/My Stuff/Coding/HTML/QuickDesktop/samplekeyboardtest3.html",
+		"/C/Users/s.b.cho/Documents/My Stuff/Coding/HTML/QuickDesktop/periodtonetest2.html",
+		"/C/Users/s.b.cho/Documents/My Stuff/Coding/HTML/QuickDesktop/randombesttest.html",
+		"/C/Users/s.b.cho/Documents/My Stuff/Coding/HTML/QuickDesktop/floatblocktexttest.html",
+		"/C/Users/s.b.cho/Documents/My Stuff/Coding/HTML/QuickDesktop/lightsofftest.html",
+		"/C/Users/s.b.cho/Documents/My Stuff/Coding/HTML/QuickDesktop/pspngmagscript.js",
+		"/C/Users/s.b.cho/Documents/My Stuff/Coding/HTML/QuickDesktop/gradtiletest.html",
+		"/C/Users/s.b.cho/Documents/My Stuff/Coding/HTML/QuickDesktop/pngmagtest5.4.html",
+		"/C/Users/s.b.cho/Documents/My Stuff/Coding/HTML/QuickDesktop/tetstetse.html",
+		"/C/Users/s.b.cho/Documents/My Stuff/Coding/HTML/QuickDesktop/overlayrtest.html",
+		"/C/Users/s.b.cho/Documents/My Stuff/Coding/HTML/QuickDesktop/canvqqtest.html",
+		"/C/Users/s.b.cho/Documents/GitHub/cantrogon.github.io/wip/magicpng.html",
+		"/C/Users/s.b.cho/Documents/My Stuff/Coding/HTML/QuickDesktop/pngmagtest5.3.html",
+		"/C/Users/s.b.cho/Documents/My Stuff/Coding/HTML/QuickDesktop/pngmagtest5.2.html",
+		"/C/Users/s.b.cho/Downloads/beepbox_offline - Copy.html",
+		"/C/Users/s.b.cho/Documents/My Stuff/Coding/HTML/QuickDesktop/touchdetecttest.html",
+		"/C/Users/s.b.cho/Documents/My Stuff/Coding/HTML/QuickDesktop/pngmagtest5.html",
+		"/C/Users/s.b.cho/Documents/My Stuff/Coding/HTML/QuickDesktop/pngmagtest4.html",
+		"/C/Users/s.b.cho/Documents/My Stuff/Coding/HTML/QuickDesktop/lumtest.html",
+		"/C/Users/s.b.cho/Documents/My Stuff/Coding/HTML/QuickDesktop/pix3test.html",
+		"/C/Users/s.b.cho/Documents/My Stuff/Coding/HTML/QuickDesktop/ytscreenshottest.html",
+		"/C/Users/s.b.cho/Documents/My Stuff/Coding/HTML/QuickDesktop/pianotouchcanceltest.html",
+		"/C/Users/s.b.cho/Documents/GitHub/cantrogon.github.io/isometric.html",
+		"/C/Users/s.b.cho/Documents/GitHub/aiexperiments-ai-duet/static/src/keyboard/Element.js",
+		"/C/Users/s.b.cho/Documents/My Stuff/Coding/HTML/QuickDesktop/samplekeyboardtest2.html",
+		"/C/Users/s.b.cho/Documents/My Stuff/Coding/HTML/QuickDesktop/audiokeysdemo.html",
+		"/C/Users/s.b.cho/Documents/My Stuff/Coding/HTML/QuickDesktop/samplekeyboardtest.html",
+		"/C/Users/s.b.cho/Documents/My Stuff/Coding/HTML/Testing/audiokeysdemo.html",
+		"/C/Users/s.b.cho/Documents/My Stuff/Coding/HTML/QuickDesktop/js/audiokeys.js",
+		"/C/Users/s.b.cho/Documents/GitHub/aiexperiments-ai-duet/static/src/sound/Sound.js",
+		"/C/Users/s.b.cho/Documents/GitHub/aiexperiments-ai-duet/static/src/sound/Sampler.js",
+		"/C/Users/s.b.cho/Documents/My Stuff/Coding/HTML/QuickDesktop/pngmagtest3.html",
+		"/C/Users/s.b.cho/Documents/My Stuff/Coding/HTML/QuickDesktop/pngmagtest2.html",
+		"/C/Users/s.b.cho/Documents/My Stuff/Coding/HTML/QuickDesktop/breakouttest2.html",
+		"/C/Users/s.b.cho/Documents/My Stuff/Coding/HTML/QuickDesktop/breakouttest3.html",
+		"/C/Users/s.b.cho/Documents/My Stuff/Coding/HTML/QuickDesktop/primepattern.html",
+		"/C/Users/s.b.cho/Documents/My Stuff/Coding/HTML/QuickDesktop/dinochooser.js",
+		"/C/Users/s.b.cho/Documents/GitHub/aiexperiments-ai-duet/static/build/0.js",
+		"/C/Users/s.b.cho/Documents/My Stuff/Coding/HTML/QuickDesktop/perio",
+		"/C/Users/s.b.cho/Documents/My Stuff/Coding/HTML/QuickDesktop/periodtonetest.html",
+		"/C/Users/s.b.cho/Downloads/switchbow-1.5.8 - Copy/assets/switchbow/textures/items/switchbow.png.mcmeta",
+		"/C/Users/s.b.cho/Downloads/switchbow-1.5.8 - Copy/assets/switchbow/textures/items/switchbow0.png.mcmeta",
+		"/C/Users/s.b.cho/Downloads/switchbow-1.5.8 - Copy/assets/switchbow/blockstates/arrowdispenser.json",
+		"/C/Users/s.b.cho/Downloads/switchbow-1.5.8 - Copy/pack.mcmeta",
+		"/C/Users/s.b.cho/Downloads/switchbow-1.5.8 - Copy/mcmod.info",
+		"/C/Users/s.b.cho/Downloads/switchbow-1.5.8 - Copy/META-INF/mods.toml",
+		"/C/Users/s.b.cho/Downloads/switchbow-1.5.8 - Copy/META-INF/MANIFEST.MF",
+		"/C/Users/s.b.cho/Downloads/switchbow-1.5.8 - Copy/de/Whitedraco/switchbow/potion/EffectFreeze.class",
+		"/C/Users/s.b.cho/Downloads/switchbow-1.5.8 - Copy/assets/switchbow/recipes_template/arrowdispenser.json",
+		"/C/Users/s.b.cho/Downloads/switchbow-1.5.8 - Copy/assets/switchbow/models/item/arrowburialaoe.json",
+		"/C/Users/s.b.cho/Downloads/switchbow-1.5.8 - Copy/assets/switchbow/models/item/archer_chestplate.json",
+		"/C/Users/s.b.cho/Downloads/switchbow-1.5.8 - Copy/assets/switchbow/models/block/podest.json",
+		"/C/Users/s.b.cho/Downloads/switchbow-1.5.8 - Copy/assets/switchbow/models/block/arrowdispenser.json",
+		"/C/Users/s.b.cho/Downloads/switchbow-1.5.8 - Copy/assets/switchbow/lang/de_de.json",
+		"/C/Users/s.b.cho/Downloads/switchbow-1.5.8 - Copy/assets/switchbow/blockstates/redstonepiece.json",
+		"/C/Users/s.b.cho/Downloads/switchbow-1.5.8 - Copy/assets/switchbow/blockstates/podest.json",
+		"/C/Users/s.b.cho/Downloads/switchbow-1.5.8 - Copy/data/minecraft/tags/items/arrows.json",
+		"/C/Users/s.b.cho/Downloads/switchbow-1.5.8 - Copy/data/switchbow/recipes/arrowburial.json",
+		"/C/Users/s.b.cho/Desktop/serveduet.bat",
+		"/C/Users/s.b.cho/Desktop/buildduet.bat",
+		"/C/Users/s.b.cho/Desktop/qcserver.bat"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 619.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 43.0
+	},
+	"input":
+	{
+		"height": 209.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "301-G050.sublime-project",
+	"replace":
+	{
+		"height": 82.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 188.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
