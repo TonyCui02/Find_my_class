@@ -1,6 +1,4 @@
-# Find my room
-This is the depository for Find my room, a project created during the WDCC and Auckland University Compsci society hackathon
+# AUCS_Hackathon
+This is the depository for the AUCS hackathon
 
-Our program uses 3-D visualisation to help students find their way to their next university room.
-
-![image](https://github.com/TonyCui02/AUCS_Hackathon/blob/master/demo.PNG)
+Our program uses 3-D visualisation to help students find their way to their next university room
