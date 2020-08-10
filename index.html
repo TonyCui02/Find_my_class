@@ -1,0 +1,76 @@
+<!DOCTYPE html >
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Find My Class</title>
+        <link rel="icon" type="image/png" href="images/logo.png"/>
+        <link rel="stylesheet" href="style.css">
+        <link rel="stylesheet" href="style-map.css">
+        <script type="text/javascript" src="index.js"></script>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        <div class="wrapper">
+            <header>
+                <div class="bar">University of Auckland city campus</div>
+                <div class="navbar">
+                    <div class="logo"></div>
+                    <div class="dropdown">
+                        <a class="active dropbtn" href="#">Science Building</a>
+                        <div class="dropdown-content">
+                            <a href="#">Level 1</a>
+                            <a href="#">Level 2</a>
+                            <a href="#">Level 3</a>
+                        </div>
+                    </div>
+                    <div class="dropdown">
+                        <a href="#" class="dropbtn">Engineering Building</a>
+                        <div class="dropdown-content">
+                            <a href="#">Level 1</a>
+                            <a href="#">Level 2</a>
+                            <a href="#">Level 3</a>
+                        </div>
+                    </div>
+                    <div class="dropdown">
+                        <a href="#" class="dropbtn">OGGB Building</a>
+                        <div class="dropdown-content">
+                            <a href="#">Level 1</a>
+                            <a href="#">Level 2</a>
+                            <a href="#">Level 3</a>
+                        </div>
+                    </div>
+                    <div class="dropdown">
+                        <a href="#" class="dropbtn">Arts Building</a>
+                        <div class="dropdown-content">
+                            <a href="#">Level 1</a>
+                            <a href="#">Level 2</a>
+                            <a href="#">Level 3</a>
+                        </div>
+                    </div>
+                </div>
+            </header>
+            <div class="center">
+                <h1>Where's my next class?</h1>
+                <h2>Search for your room number or try hovering your mouse over the 3-D map</h2>
+                <h3>Current map: Science Building, Level 1</h3>
+            </div>
+        </div>
+        
+        <div id="main">
+            <div class="svg-wrap">
+                <div class="svg-scroll">
+                    <svg id="svg-main"></svg>
+                </div>
+            </div>
+            <div class="puts">
+                <div class="input-wrap">
+                    <input id="input" placeholder="find" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false"/>
+                    <div class="input-line"></div>
+                </div>
+                <div id="outputs"></div>
+            </div>
+        </div>
+
+        <footer><span style="text-decoration: line-through;">©2020</span> Tony Cui, Steven Cho, Ray Xue | University of Auckland</footer>
+    </body>
+</html>

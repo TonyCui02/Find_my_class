@@ -1,0 +1,173 @@
+
+body {
+	background: #FFFFF8;
+}
+
+#main {
+	display: flex;
+	width: 100%;
+	padding: 50px;
+	box-sizing: border-box;
+	position: relative;
+}
+
+.puts {
+	margin-left: 40px;
+	font-size: 48px;
+	font-family: 'Times New Roman';
+}
+
+#input {
+	background: transparent;
+	border: none;
+	font-size: 48px;
+	font-family: 'Times New Roman';
+	transition: color .1s;
+	width: 100%;
+}
+
+/*#input:-ms-input-placeholder,*/
+/*#input::-webkit-input-placeholder,*/
+#input::placeholder {
+	font-style: italic;
+}
+
+#input:focus {
+	outline: none;
+}
+
+#input:not(:focus) {
+	color: grey;
+}
+
+.input-line {
+	transition: .4s;
+	height: 2px;
+	width: 25%;
+	background: #eeede3;
+	border-radius: 10px;
+}
+
+#input:focus + .input-line {
+	background: #bfb28b;
+	width: 100%;
+}
+
+#outputs {
+	position: relative;
+	margin-top: 20px;
+}
+
+.output-wrap {
+	opacity: 0;
+	transform: translateY(-20px);
+	transition: .3s;
+	position: absolute;
+	top: 0;
+}
+
+.output1 {
+	margin-bottom: 10px;
+}
+
+.output1::after {
+	content: '';
+	display: block;
+	height: 3px;
+	width: 150px;
+	background: maroon;
+	border-radius: 10px;
+	margin-top: 10px;
+}
+
+.output2 {
+	font-size: 40px;
+	color: grey;
+	font-style: italic;
+}
+
+#svg-main {
+	position: relative;
+	stroke-linejoin: round;
+	min-width: 700px;
+  	-webkit-tap-highlight-color: transparent;
+	touch-action: manipulation;
+}
+
+.svg-wrap {
+	overflow: hidden;
+	position: relative;
+	min-width: 700px;
+	max-width: 90vw;
+	border: 10px solid #eeede3;
+	border-radius: 50px;
+}
+
+.svg-scroll {
+	overflow: auto;
+	position: relative;
+	width: 100%;
+	height: 100%;
+}
+
+.p {
+	fill: transparent;
+	stroke: transparent;
+	transition: .2s, transform .05s;
+	cursor: pointer;
+}
+
+.p:active {
+	transform: translateY(5px);
+}
+
+.svg-scroll::-webkit-scrollbar {
+	height: 8px;
+}
+
+.svg-scroll::-webkit-scrollbar-track {
+	background: #eeede3;
+	border-radius: 10px;
+}
+
+.svg-scroll::-webkit-scrollbar-thumb {
+	background: #bfb28b;
+	border-radius: 10px;
+}
+
+@media only screen and (max-width: 1100px) {
+	#main {
+		flex-flow: column;
+		padding: 40px;
+	}
+
+	.svg-wrap {
+		min-width: 0;
+		border-bottom-right-radius: 0;
+		border-bottom-left-radius: 0;
+	}
+
+	#svg-main {
+		min-width: 1200px;
+	}
+
+	.puts {
+		margin-left: 0;
+		margin-top: 20px;
+	}
+}
+
+@media only screen and (max-width: 768px) {
+	#main {
+		padding: 20px;
+	}
+
+	.puts, #input {
+		font-size: 40px;
+	}
+
+	.output2 {
+		font-size: 32px;
+	}
+
+}
